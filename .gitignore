@@ -1,0 +1,10 @@
+# Project exclude paths
+/.gradle/
+/Flashcards/task/build/
+/Flashcards/task/out/
+/Flashcards/task/out/production/classes/
+/Topics/The classification of basic types/Size, min and max/out/
+/Topics/The classification of basic types/Size, min and max/out/production/classes/
+/Topics/The classification of basic types/Theory/build/
+/Topics/The classification of basic types/Theory/out/
+/Topics/The classification of basic types/Theory/out/production/classes/
